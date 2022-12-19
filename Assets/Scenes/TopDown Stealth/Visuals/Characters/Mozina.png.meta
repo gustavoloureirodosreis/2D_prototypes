@@ -1,0 +1,1038 @@
+fileFormatVersion: 2
+guid: 62ba44922f1ac3a42812b4502432df27
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mozina_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1098
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79b3ec13a6a8b7498bf675dfbe54800
+      internalID: 2014635421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1098
+        width: 76
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be35a06f9a8d4b429f8d4f3089a8bb1
+      internalID: 792500617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1098
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56065c4270ba9240a4981afc0a72ce0
+      internalID: 1599527096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1098
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5216c5be2166b794f90f0afc2315ba98
+      internalID: 822509850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_4
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1098
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99411ecfaf7f20d4ba899659209b0714
+      internalID: -755517254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_5
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1098
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf5014d34b89854fa02b1d7cbb70e55
+      internalID: 829731671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_6
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1098
+        width: 76
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ebf02fc597154cb76b7330abb5ec7
+      internalID: 1086199789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_7
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1098
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea618ce6382c914ea107ba11d262569
+      internalID: 1037612629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 840
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de929ce6b481de4287b1904359fd43d
+      internalID: -5535237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 840
+        width: 76
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325fe33cfe7f075428f26aa6fb47d89f
+      internalID: 1341946429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_10
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 840
+        width: 76
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c4c678a1044ce479cdc36ff660e586
+      internalID: -754397238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_11
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 840
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298d35aa995fe0146a4d3ddd15f902d0
+      internalID: 1248587116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_12
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 840
+        width: 77
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11223ef7427e7d34585bb7503b0e441a
+      internalID: 1800080403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_13
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 840
+        width: 78
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeebff36561d1e84abbb7ed267eda660
+      internalID: 1233970075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_14
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 840
+        width: 77
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610675ce4232d7d4ea9b7a7e0da53c8a
+      internalID: -1596843140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_15
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 840
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13033fd7ac4e42040acc3002a741d6e6
+      internalID: 1609208853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 584
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625f0fdbfcb4ec74d8586fafdc681f95
+      internalID: -562097939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 584
+        width: 76
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77936ab5d327aa41a9a8bb7f68ab603
+      internalID: 531962120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 584
+        width: 76
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b42ad73c5b18b4594ca4ab0642997d
+      internalID: -1188945769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_19
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 584
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dadf7998ff32eb48aa6b00e7c2bbccd
+      internalID: 1636417447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_20
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 584
+        width: 77
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5c751c90767994cb7a807c5773e251
+      internalID: 1649218941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_21
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 584
+        width: 78
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d55ee2c0c20f14ba771927863224f4
+      internalID: 622825378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_22
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 584
+        width: 77
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c5b9601b22ff41ad46051489f001a
+      internalID: 232182498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_23
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 584
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1c44b88c6fb454aaac5b1b1c093326
+      internalID: 127518841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 330
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1979237ea8914ee4da9553fd4469ee2f
+      internalID: 1651677130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 330
+        width: 77
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4f5ba1f4d3c5f468c5b24153ca6cbb
+      internalID: -340461877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_26
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 330
+        width: 77
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813e4f9da5c894b42bf6b111e2c55694
+      internalID: -375112826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 330
+        width: 76
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1c26f35a0784f4e83332e1e24f44b8
+      internalID: 1004892688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_28
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 330
+        width: 77
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d33032e27a8da449a7751efddf5ecf
+      internalID: -625150601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_29
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 330
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effdb4fc2f38b1b49af8b598da48819b
+      internalID: 460546532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_30
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 330
+        width: 76
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29eba23ab6b4ad45a63f0abf68b6bfc
+      internalID: 307943274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_31
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 330
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cfcf13a5c5b7243954131995836ba7
+      internalID: -1878648410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 74
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9214861d3dd8f42a17ede1d9de2bda
+      internalID: 1651663461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 72
+        width: 76
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ca89161ffb994397609e6a0d9041d
+      internalID: -2074304304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_34
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 81
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2861d5db2dfb045a558749e16d23e3
+      internalID: 898474780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_35
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 73
+        width: 86
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15469beb509c843b56f12c78ed475b
+      internalID: -1666477334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_36
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 70
+        width: 96
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dddde25b224364ea74f6a357f6ece5
+      internalID: 1870777595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_37
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 65
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a894d46ba4692fc409569bfedd948646
+      internalID: 717207045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_38
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 57
+        width: 108
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e0f4e822787b741906750ccaa86022
+      internalID: -1478241184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozina_39
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 47
+        width: 113
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1672a85a2bfe86d46a22ef343f7e668b
+      internalID: -1066186366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mozina_12: 1800080403
+      Mozina_5: 829731671
+      Mozina_8: -5535237
+      Mozina_19: 1636417447
+      Mozina_17: 531962120
+      Mozina_25: -340461877
+      Mozina_26: -375112826
+      Mozina_37: 717207045
+      Mozina_13: 1233970075
+      Mozina_28: -625150601
+      Mozina_38: -1478241184
+      Mozina_21: 622825378
+      Mozina_34: 898474780
+      Mozina_11: 1248587116
+      Mozina_14: -1596843140
+      Mozina_1: 792500617
+      Mozina_35: -1666477334
+      Mozina_23: 127518841
+      Mozina_31: -1878648410
+      Mozina_36: 1870777595
+      Mozina_39: -1066186366
+      Mozina_0: 2014635421
+      Mozina_3: 822509850
+      Mozina_9: 1341946429
+      Mozina_29: 460546532
+      Mozina_7: 1037612629
+      Mozina_6: 1086199789
+      Mozina_18: -1188945769
+      Mozina_2: 1599527096
+      Mozina_10: -754397238
+      Mozina_32: 1651663461
+      Mozina_22: 232182498
+      Mozina_33: -2074304304
+      Mozina_27: 1004892688
+      Mozina_24: 1651677130
+      Mozina_4: -755517254
+      Mozina_20: 1649218941
+      Mozina_15: 1609208853
+      Mozina_16: -562097939
+      Mozina_30: 307943274
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
