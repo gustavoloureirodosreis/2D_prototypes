@@ -12,6 +12,10 @@ namespace Scenes.Wordle.Scripts {
         
         // Current wordbox that we're inputting in
         private int _currentWordBox;
+        // The current row that we're currently at
+        private int _currentRow;
+        // How many characters are there per row
+        private int _charactersPerRowCount = 5;
         // List with all the words
         private List<string> _dictionary = new List<string>();
         // List with words that can be chosen as correct words
@@ -55,8 +59,15 @@ namespace Scenes.Wordle.Scripts {
         }
         
         public void AddLetterToWordBox(string letter) {
-            wordBoxes[_currentWordBox].GetChild(0).GetComponent<TMP_Text>().text = letter;
-            _currentWordBox++;
+            if (wordBoxes[(_currentRow * _charactersPerRowCount) + _currentWordBox].GetChild(0).GetComponent<TMP_Text>()
+                    .text == "") {
+                wordBoxes[_currentWordBox].GetChild(0).GetComponent<TMP_Text>().text = letter;
+            }
+
+            if ((_currentRow * _charactersPerRowCount) + _currentWordBox <
+                (_currentRow * _charactersPerRowCount) + _charactersPerRowCount) {
+                _currentWordBox++;
+            }
         }
     }
 }
